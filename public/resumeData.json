@@ -16,7 +16,7 @@
       "zip": "1216"
     },
     "website": "https://najmusshakib.herokuapp.com/",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "http://localhost:3000/NajmusShakib.pdf",
     "social": [
       {
         "name": "facebook",
