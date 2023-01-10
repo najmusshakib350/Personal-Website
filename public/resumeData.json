@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Hello, I'm Najmus Shakib.",
+    "description": "MERN Stack Developer and Database Designer",
+    "image": "profilepic.jpg",
+    "bio": "My name is Najmus Shakib and I am an experienced full-stack web developer and professional tutor. I have skilled with HTML, CSS, JavaScript, Bootstrap, JQuery, React js, Node js, Express js, MongoDB, MySQL, Next js. You can share your project with me. I am interested in solving any web-related problem. I don't want to waste the time of my client. I feel real concern about my clients, their feedbacks, their deadlines, and the quality they need. I will try to give the best quality.",
+    "contactmessage": "To contact me, message me, or contact me using social media platforms. If you do not want to be contacted, you can hire me directly through the International Marketplaces.",
+    "email": "shakibn350@gmail.com",
+    "phone": "(+88) 01988 267635",
+    "github": "https://github.com/najmusshakib350",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "Bangladesh",
+      "city": "Dhaka",
+      "state": "Mirpur",
+      "zip": "1216"
+    },
+    "website": "https://najmusshakib.herokuapp.com/",
+    "resumedownload": "https://najmusshakib.herokuapp.com/NajmusShakib.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/najmus.shakib.5876",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/NajmusS44519999",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/najmus-shakib-581508207/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCZtduRnuNuuK0ezlqJrzd6Q",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/najmusshakib350",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "what i know.",
+    "education": [
+      {
+        "school": "Daffodil International University",
+        "degree": "Computer Science Engineering CSE",
+        "graduated": "April 2022",
+        "description": "I have 4 years of good experience in university life and have a clear idea of C, C++, Java, Data structure, Algorithms, and Networking. In the web design part, I have the skills to design any kind of website. My design must be responsive in all devices, pixel perfect, w3c valid code, clean coding, SEO friendly, and cross-browser compatible."
+      }
+    ],
+    "work": [
+      {
+        "company": "Professional Freelancer Fiverr",
+        "title": "Web Developer ",
+        "years": "April 2020 - Present",
+        "description": "I’m a highly motivated, ambitious, and creative person who can make you happy to develop an amazing website at an affordable price. I'm available for freelance work."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "JQuery",
+        "level": "75%"
+      },
+      {
+        "name": "React js",
+        "level": "75%"
+      },
+      {
+        "name": "Next js",
+        "level": "75%"
+      },
+      {
+        "name": "Node js",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Blockchain Based Secure E-Voting System",
+        "category": "Web Development",
+        "image": "01.png",
+        "url": "https://drive.google.com/file/d/1JFl6wnBNnMgr9G6y5ofYTO2Y3HXoXCEq/view?usp=sharing"
+      },
+      {
+        "title": "Ecommerce Website using Node JS and Next JS",
+        "category": "Web Development",
+        "image": "02.png",
+        "url": "https://drive.google.com/file/d/1dbX1No6q81VVbKigGAd7IK_L-FNOzHxJ/view?usp=sharing"
+      },
+      {
+        "title": "Tour Website",
+        "category": "Web Development",
+        "image": "03.png",
+        "url": "https://tour-8wz7.onrender.com/"
+      },
+      {
+        "title": "Food Website",
+        "category": "Web Development",
+        "image": "04.png",
+        "url": "https://burger-builder-ffc5a.web.app/"
+      }
+    ]
+  }
+}
