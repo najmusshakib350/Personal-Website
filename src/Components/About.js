@@ -25,6 +25,7 @@ class About extends Component {
                 className="profile-pic"
                 src={profilepic}
                 alt="Nordic Giant Profile Pic"
+                style={{objectFit: 'scale-down'}}
               />
             </div>
             <div className="nine columns main-col">
